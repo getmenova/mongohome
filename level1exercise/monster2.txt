@@ -1,0 +1,19 @@
+db.myGame.monsters.insert({
+  "Name": "Bastion Rook",
+  "Health": "99",
+  "Last Fought": new Date(2018, 0, 23),
+  "Attacks": ["turtle","shield","bolster"], 
+  "Stats": {
+  "Attack": 1,
+  "Defense": 99 
+  }
+})
+
+“Name”
+“Health”
+Last fought (date)
+Attacks (array)
+Enter 3 names for attacks a monster could do example: “bite”
+Stats (object)
+Attack (number)
+Defense (number
